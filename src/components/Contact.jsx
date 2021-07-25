@@ -1,7 +1,7 @@
 import React from 'react';
 import '../bootstrap/bootstrap.min.css';
 import { Component } from "react";
-import { Form, FormControl, Button } from "react-bootstrap";
+import { Button } from "react-bootstrap";
 import AgeStats from "./AgeStats";
 import "./AgeStats.css";
 

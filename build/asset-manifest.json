@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Datamatics-Task/static/css/main.70af9b6f.chunk.css",
+    "main.js": "/Datamatics-Task/static/js/main.1e5af5c3.chunk.js",
+    "main.js.map": "/Datamatics-Task/static/js/main.1e5af5c3.chunk.js.map",
+    "runtime-main.js": "/Datamatics-Task/static/js/runtime-main.698db651.js",
+    "runtime-main.js.map": "/Datamatics-Task/static/js/runtime-main.698db651.js.map",
+    "static/js/2.33027653.chunk.js": "/Datamatics-Task/static/js/2.33027653.chunk.js",
+    "static/js/2.33027653.chunk.js.map": "/Datamatics-Task/static/js/2.33027653.chunk.js.map",
+    "index.html": "/Datamatics-Task/index.html",
+    "static/css/main.70af9b6f.chunk.css.map": "/Datamatics-Task/static/css/main.70af9b6f.chunk.css.map",
+    "static/js/2.33027653.chunk.js.LICENSE.txt": "/Datamatics-Task/static/js/2.33027653.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.698db651.js",
+    "static/js/2.33027653.chunk.js",
+    "static/css/main.70af9b6f.chunk.css",
+    "static/js/main.1e5af5c3.chunk.js"
+  ]
+}
