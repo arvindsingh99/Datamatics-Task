@@ -1,0 +1,19 @@
+@keyframes fade-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 25;
+    }
+  }
+
+  .fade {
+    animation-name: fade-in;
+    animation-duration: 2s;
+  }
+  
+  
+  
+  .age-stats {
+    opacity: 100;
+  }
